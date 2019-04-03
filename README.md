@@ -7,4 +7,4 @@ Added some my own features:
 * Add influence of on what side of paddle our ball was fallen
 
 
-DEMO: jintsuu.github.io/breakout/
+DEMO: http://jintsuu.github.io/breakout/
